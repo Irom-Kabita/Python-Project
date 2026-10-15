@@ -31,6 +31,7 @@ Developed a Python-based data analysis project to clean, transform, and analyze 
 
 📂 **Files Included**
   Python capstone project.ipynb – Python Notebook
+  # Generated outputs
 - employee.csv
 - project.csv
 - seniority.csv
