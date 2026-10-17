@@ -30,12 +30,43 @@ Developed a Python-based data analysis project to clean, transform, and analyze 
 - Jupyter Notebook
 
 📂 **Files Included**
-  Python capstone project.ipynb – Python Notebook
+- Python capstone project.ipynb – Python Notebook
 
 **Generated outputs**
 - employee.csv
 - project.csv
 - seniority.csv
+
+**⚙️ Setup and How to Run**
+
+Requirements
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+
+Installation
+
+Make sure Python is installed on your computer. Open a terminal or Command Prompt and run:
+
+pip install pandas numpy notebook
+
+Running the Notebook
+
+1. Download or clone this repository.
+
+2. Open a terminal or Command Prompt in the project folder.
+
+3. Launch Jupyter Notebook by running:
+   
+   jupyter notebook
+
+4. Open "Python capstone project.ipynb".
+
+5. Run all cells in order, starting from the first cell.
+
+Note: The notebook generates "employee.csv", "project.csv", and "seniority.csv". Run the notebook from the beginning so these files are created before later cells attempt to read them.
 
 📝 **Data Handling, Transformations and Business Rules**
 
