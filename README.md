@@ -41,10 +41,10 @@ Developed a Python-based data analysis project to clean, transform, and analyze 
 
 Requirements
 
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
+- Python 3.13.9
+- Jupyter Notebook 
+- Pandas 2.3.3
+- NumPy 2.3.5
 
 Installation
 
