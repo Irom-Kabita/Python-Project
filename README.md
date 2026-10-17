@@ -31,12 +31,12 @@ Developed a Python-based data analysis project to clean, transform, and analyze 
 
 📂 **Files Included**
   Python capstone project.ipynb – Python Notebook
-  # Generated outputs
+**Generated outputs**
 - employee.csv
 - project.csv
 - seniority.csv
 
-📝 Data Handling, Transformations and Business Rules
+📝 **Data Handling, Transformations and Business Rules**
 
 - Data cleaning: Remove unnecessary columns, including the gender column, as implemented in the notebook.
 - Name transformation: Split employee names into first and last names and use NumPy ("np.where") to assign titles such as "Mr." and "Mrs." based on the project's defined conditions.
