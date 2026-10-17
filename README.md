@@ -35,3 +35,16 @@ Developed a Python-based data analysis project to clean, transform, and analyze 
 - employee.csv
 - project.csv
 - seniority.csv
+
+📝 Data Handling, Transformations and Business Rules
+
+- Data cleaning: Remove unnecessary columns, including the gender column, as implemented in the notebook.
+- Name transformation: Split employee names into first and last names and use NumPy ("np.where") to assign titles such as "Mr." and "Mrs." based on the project's defined conditions.
+- Missing project costs: Replace missing costs with the running average of previously encountered non-missing project costs.
+- Bonus calculation: Assign a bonus equal to 5% of project cost to projects marked "Finished". Other project statuses receive zero bonus.
+- Designation updates: Adjust designation levels according to the notebook's rules, including age-based promotion and failed-project demotion. Keep designation levels within the defined limits.
+- Project cost aggregation: Calculate total project cost for each employee using Pandas grouping and aggregation.
+- Data filtering: Filter employee records according to specified conditions, such as selecting cities containing the letter "o", regardless of case.
+- Dataset integration: Combine employee, project and designation data using Employee ID.
+
+Note: This project is a sample data analysis exercise. The transformations and business rules demonstrate Python data manipulation techniques and do not represent actual company HR policies.
